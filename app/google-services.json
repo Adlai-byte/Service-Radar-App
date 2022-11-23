@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256281039409",
+    "firebase_url": "https://service-radar-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "service-radar-app",
+    "storage_bucket": "service-radar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256281039409:android:bd079f85f3393855f3fb10",
+        "android_client_info": {
+          "package_name": "com.example.serviceradarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256281039409-1krh4ue23gonbc31r4gqckvmqr6qv4ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.serviceradarapp",
+            "certificate_hash": "8e29b3752fe537f41d14849c058d39bc95dc0859"
+          }
+        },
+        {
+          "client_id": "256281039409-4me5m6o814j4tpkdh5cu5l29mjh72b2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0DobRKno9HuZ6AwClKdUYGAsXMNIYye0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256281039409-4me5m6o814j4tpkdh5cu5l29mjh72b2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

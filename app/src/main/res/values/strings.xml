@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service Radar App</string>
+    <string name="Driver">I am a driver</string>
+    <string name="Customer">I am a customer</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="title_activity_customer_map">CustomerMapActivity</string>
+</resources>
